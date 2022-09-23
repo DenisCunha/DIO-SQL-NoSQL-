@@ -11,3 +11,5 @@ Exemplos: MongoDB, Cassandra entre outros.
 Importancia da engenharia de dados na elaboração de projetos para que se tenham a captação e estruturação adqueda dos dados a serem armazenados e consumidos.
 
 Explorar as ferramentas para aprimorar os conhecimentos.
+
+Trabalho em equipe para definição do tratamento dos dados.
